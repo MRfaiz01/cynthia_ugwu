@@ -20,6 +20,7 @@ body {
     z-index: 99999;
     border-radius: 50%;
     background-color: #fff;
+    mix-blend-mode: difference;
 }
 
 .bounding {
